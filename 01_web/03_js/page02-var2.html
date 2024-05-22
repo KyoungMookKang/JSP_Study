@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        x = 100 // 전역변수
+        y = 100
+        sum = 1000
+
+        if (x == y) {
+            total = 100 // 전역, var / let이 없기때문
+            var sum = 200
+
+            let x2 = 999
+
+            alert('total' + total) // 100 전역
+            alert('sum' + sum) // 200
+            alert('x' + x) // 100 전역
+            alert('x2' + x) // 999 지역
+        }
+        alert('total2 ' + total) // 100 전역
+        alert('sum2 ' + sum) // 200 전역
+        alert('x2 ' + x) // 100 전역
+        alert('x2 ' + x2)// 100 전역  x2 is not defined / 지역에 있는 x2를 쓰려하니 에러발생
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

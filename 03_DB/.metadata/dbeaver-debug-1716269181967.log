@@ -1,0 +1,163 @@
+2024-05-20 09:31:24.706 - DBeaver 24.0.5.202405191503 is starting
+2024-05-20 09:31:24.706 - OS: Windows 10 10.0 (amd64)
+2024-05-20 09:31:24.707 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-05-20 09:31:24.707 - Install path: 'C:\Users\Kang\AppData\Local\DBeaver'
+2024-05-20 09:31:24.707 - Instance path: 'file:/C:/workspace/multi/03_DB/'
+2024-05-20 09:31:24.708 - Memory available 117Mb/1024Mb
+2024-05-20 09:31:24.710 - Create display
+2024-05-20 09:31:24.826 - Initialize desktop platform...
+2024-05-20 09:31:24.899 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.400.v20240426-1040]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.200.v20240426-1040]
+> Start 팀 지원 핵심 [org.eclipse.team.core 3.10.400.v20240413-1529]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.131.202405191503]
+2024-05-20 09:31:25.035 - Initialize base platform...
+2024-05-20 09:31:25.055 - Platform initialized (229ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.131.202405191503]
+2024-05-20 09:31:25.100 - Starting instance server at http://localhost:50637
+2024-05-20 09:31:25.107 - Run workbench
+> Start Eclipse e4 작업영역 SWT [org.eclipse.e4.ui.workbench.swt 0.17.400.v20240425-0840]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.400.v20240413-1529]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.300.v20231201-1637]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.400.v20240424-0956]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.400.v20240321-1245]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.400.v20240424-0444]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.37.0.v20231208-1346]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.400.v20240424-0956]
+> Start Eclipse e4 작업영역 기능 추가 [org.eclipse.e4.ui.workbench.addons.swt 1.5.400.v20240416-0658]
+Warning: NLS unused message: 이유 in: org.eclipse.ui.internal.messages
+> Start Eclipse e4 작업영역 SWT 렌더러 [org.eclipse.e4.ui.workbench.renderers.swt 0.16.400.v20240418-1547]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.400.v20240321-1245]
+> Start Eclipse SDK Themes [org.eclipse.ui.themes 1.2.2400.v20240213-1133]
+2024-05-20 09:31:26.207 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.121.202405191503]
+2024-05-20 09:31:26.292 - Total database drivers: 118 (118)
+> Start 도움말 시스템 코어 [org.eclipse.help 3.10.400.v20240415-0528]
+2024-05-20 09:31:26.360 - Create actions
+2024-05-20 09:31:26.365 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-05-20 09:31:26.365 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-05-20 09:31:26.366 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2024-05-20 09:31:26.366 - Create workbench actions
+2024-05-20 09:31:26.840 - Initialize workbench window
+2024-05-20 09:31:26.845 - Finish initialization
+> Start 기본 문서 편집기 [org.eclipse.ui.editors 3.17.300.v20240416-0658]
+> Start 텍스트 편집기 프레임워크 [org.eclipse.ui.workbench.texteditor 3.17.400.v20240424-0941]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.131.202405191503]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.131.202405191503]
+Warning: NLS unused message: FindReplace_title in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Find_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Replace_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Direction in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ForwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_BackwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Scope in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_GlobalRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectedRangeRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Options in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CaseCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WrapCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WholeWordCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_IncrementalCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_RegExCheckbox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_FindNextButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceFindButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceSelectionButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CloseButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_replacements_label in: org.eclipse.ui.texteditor.EditorMessages
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.107.202405191503]
+> Start 핵심 비교 지원 [org.eclipse.compare.core 3.8.500.v20240415-1311]
+> Start 인터넷 연결 관리 사용자 인터페이스 [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.400.v20240413-1529]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.168.202405191503]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.137.202405191503]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.16.0.202405011806]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.18.0.202405011806]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.91.202405191503]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.91.202405191503]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.128.202405191503]
+> Start DBeaver Dashboards Model [org.jkiss.dbeaver.model.dashboard 1.0.4.202405191503]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.24.202405191503]
+> Start DBeaver Oracle Model [org.jkiss.dbeaver.ext.oracle 2.1.216.202405191503]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.122.202405191503]
+> Start 콘솔 [org.eclipse.ui.console 3.14.100.v20240413-1529]
+> Start 디버그 핵심 [org.eclipse.debug.core 3.21.400.v20240415-0528]
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.109.202405191503]
+> Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.118.202405191503]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.109.202405191503]
+2024-05-20 09:31:29.389 - Connect with 'HR' (oracle_thin-18f3ce07afd-2c4b2023623204a7)
+2024-05-20 09:31:29.420 - Execution context opened (HR; Main; 0)
+2024-05-20 09:31:29.691 - Execution context opened (HR; Metadata; 1)
+2024-05-20 09:31:29.756 - Connected (oracle_thin-18f3ce07afd-2c4b2023623204a7, Oracle JDBC driver [11.2.0.2.0])
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.26.202405191503]
+2024-05-20 09:31:29.922 - Execution context opened (HR; SQLEditor <DB_202405089_강경묵.sql>; 2)
+2024-05-20 09:31:35.587 - Connect with 'localhost 10' (mysql8-18f51a99b41-cd6301c3799e640)
+> Start DBeaver MySQL Support [org.jkiss.dbeaver.ext.mysql 2.1.216.202405191503]
+2024-05-20 09:31:35.593 - Execution context opened (localhost 10; Main; 3)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.155.202405191503]
+2024-05-20 09:31:35.730 - Execution context opened (localhost 10; Metadata; 4)
+2024-05-20 09:31:35.780 - Connected (mysql8-18f51a99b41-cd6301c3799e640, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+> Start DBeaver MySQL UI Support [org.jkiss.dbeaver.ext.mysql.ui 1.0.123.202405191503]
+2024-05-20 09:36:46.183 - Connect with 'localhost 2' (mysql8-18f3c45ea51-61c281909aa1e943)
+2024-05-20 09:36:46.184 - Execution context opened (localhost 2; Main; 5)
+2024-05-20 09:36:46.193 - Execution context opened (localhost 2; Metadata; 6)
+2024-05-20 09:36:46.229 - Connected (mysql8-18f3c45ea51-61c281909aa1e943, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2024-05-20 09:36:46.261 - Execution context opened (localhost 2; SQLEditor <jsp_Exam.sql>; 7)
+2024-05-20 10:18:58.456 - Can't get column 'password': Column 'password' not found.
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.115.202405191503]
+2024-05-20 10:19:19.817 - Object stat > 100%!
+2024-05-20 10:19:19.846 - Object stat > 100%!
+2024-05-20 10:19:38.096 - SQL Error [1062] [23000]: Duplicate entry '10' for key 'category.PRIMARY'
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1062] [23000]: Duplicate entry '10' for key 'category.PRIMARY'
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:614)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:505)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:527)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:976)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4155)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:194)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5148)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:115)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '10' for key 'category.PRIMARY'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:118)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:767)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:652)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 11 more
+2024-05-20 10:19:56.268 - Execution context closed (HR, 2)
+2024-05-20 10:19:57.657 - Execution context opened (HR; SQLEditor <DB_20240513_강경묵.sql>; 8)
+2024-05-20 10:19:58.865 - Execution context closed (HR, 8)
+2024-05-20 10:20:00.303 - Connect with 'localhost' (oracle_thin-18f3c212216-12ee295e101855e0)
+2024-05-20 10:20:00.303 - Execution context opened (localhost; Main; 9)
+2024-05-20 10:20:00.333 - Execution context opened (localhost; Metadata; 10)
+2024-05-20 10:20:00.370 - Connected (oracle_thin-18f3c212216-12ee295e101855e0, Oracle JDBC driver [11.2.0.2.0])
+2024-05-20 10:20:00.394 - Execution context opened (localhost; SQLEditor <Script.sql>; 11)
+2024-05-20 10:20:01.037 - Execution context opened (localhost; SQLEditor <Script-2.sql>; 12)
+2024-05-20 10:20:02.076 - Execution context closed (localhost, 12)
+2024-05-20 10:54:55.284 - End idle 2 transactions for mysql8-18f3c45ea51-61c281909aa1e943
+2024-05-20 14:24:45.557 - Execution context closed (localhost, 9)
+2024-05-20 14:24:45.560 - Execution context closed (HR, 0)
+2024-05-20 14:24:45.571 - Execution context closed (localhost, 10)
+2024-05-20 14:24:45.572 - Execution context closed (HR, 1)
+2024-05-20 14:24:45.572 - Disconnected (oracle_thin-18f3ce07afd-2c4b2023623204a7)
+2024-05-20 14:24:45.583 - Execution context closed (localhost, 11)
+2024-05-20 14:24:45.583 - Disconnected (oracle_thin-18f3c212216-12ee295e101855e0)
+2024-05-20 14:24:45.608 - Execution context closed (localhost 10, 3)
+2024-05-20 14:24:45.608 - Execution context closed (localhost 2, 5)
+2024-05-20 14:24:45.619 - Execution context closed (localhost 2, 6)
+2024-05-20 14:24:45.620 - Execution context closed (localhost 10, 4)
+2024-05-20 14:24:45.620 - Disconnected (mysql8-18f51a99b41-cd6301c3799e640)
+2024-05-20 14:24:45.630 - Execution context closed (localhost 2, 7)
+2024-05-20 14:24:45.630 - Disconnected (mysql8-18f3c45ea51-61c281909aa1e943)
+2024-05-20 17:42:57.054 - DBeaver is stopping
+2024-05-20 17:42:57.056 - Stop instance server
+2024-05-20 17:42:58.061 - Instance server has been stopped
+2024-05-20 17:42:58.062 - DBeaver shutdown completed

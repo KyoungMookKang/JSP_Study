@@ -1,0 +1,173 @@
+{
+	"folders": {},
+	"connections": {
+		"oracle_thin-18f3c212216-12ee295e101855e0": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "localhost",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "1521",
+				"database": "XE",
+				"url": "jdbc:oracle:thin:@//localhost:1521/XE",
+				"configurationType": "MANUAL",
+				"home": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native"
+			}
+		},
+		"mysql8-18f3c45ea51-61c281909aa1e943": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "localhost 2",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"properties": {
+					"connectTimeout": "20000",
+					"rewriteBatchedStatements": "true",
+					"enabledTLSProtocols": "TLSv1,TLSv1.1,TLSv1.2,TLSv1.3",
+					"allowPublicKeyRetrieval": "true"
+				},
+				"auth-model": "native",
+				"bootstrap": {
+					"txnIsolation": 2
+				}
+			}
+		},
+		"oracle_thin-18f3ce07afd-2c4b2023623204a7": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "HR",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "1521",
+				"database": "XE",
+				"url": "jdbc:oracle:thin:@//localhost:1521/XE",
+				"configurationType": "MANUAL",
+				"home": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native"
+			}
+		},
+		"mysql8-18f51a99b41-cd6301c3799e640": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "localhost 10",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"properties": {
+					"connectTimeout": "20000",
+					"rewriteBatchedStatements": "true",
+					"enabledTLSProtocols": "TLSv1,TLSv1.1,TLSv1.2,TLSv1.3"
+				},
+				"auth-model": "native"
+			}
+		},
+		"oracle_thin-18f55deeb97-64344d21e47ba55c": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "SCOTT",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "1521",
+				"database": "XE",
+				"url": "jdbc:oracle:thin:@//localhost:1521/XE",
+				"configurationType": "MANUAL",
+				"home": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native"
+			}
+		},
+		"oracle_thin-18f6122e91c-15a6e5da46fa6dac": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "localhost 5",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "1521",
+				"database": "XE",
+				"url": "jdbc:oracle:thin:@//localhost:1521/XE",
+				"configurationType": "MANUAL",
+				"home": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native"
+			}
+		},
+		"oracle_thin-18f725fb5cb-42158e0dbca476a2": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "MiniProject",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "1521",
+				"database": "XE",
+				"url": "jdbc:oracle:thin:@//localhost:1521/XE",
+				"configurationType": "MANUAL",
+				"home": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native"
+			}
+		}
+	},
+	"virtual-models": {"oracle_thin-18f3ce07afd-2c4b2023623204a7":{"SCOTT":{"@properties":{"erd.diagram.state":{"serialized":"\u003cdiagram version\u003d\"1\" name\u003d\"empty\" time\u003d\"202405071123\"\u003e\u003centities\u003e\u003cdata-source id\u003d\"oracle_thin-18f3ce07afd-2c4b2023623204a7\"\u003e\u003centity id\u003d\"1\" name\u003d\"BBS\" fq-name\u003d\"SCOTT.BBS\" order\u003d\"0\" font\u003d\"Segoe UI:9:0\" x\u003d\"364\" y\u003d\"398\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"2\" name\u003d\"BBS2\" fq-name\u003d\"SCOTT.BBS2\" order\u003d\"1\" font\u003d\"Segoe UI:9:0\" x\u003d\"40\" y\u003d\"40\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"3\" name\u003d\"BBS3\" fq-name\u003d\"SCOTT.BBS3\" order\u003d\"2\" font\u003d\"Segoe UI:9:0\" x\u003d\"40\" y\u003d\"224\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"4\" name\u003d\"BONUS\" fq-name\u003d\"SCOTT.BONUS\" order\u003d\"3\" font\u003d\"Segoe UI:9:0\" x\u003d\"532\" y\u003d\"398\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"5\" name\u003d\"DEPT\" fq-name\u003d\"SCOTT.DEPT\" order\u003d\"4\" font\u003d\"Segoe UI:9:0\" x\u003d\"40\" y\u003d\"408\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"6\" name\u003d\"EMP\" fq-name\u003d\"SCOTT.EMP\" order\u003d\"5\" font\u003d\"Segoe UI:9:0\" x\u003d\"40\" y\u003d\"573\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"7\" name\u003d\"MEMBER\" fq-name\u003d\"SCOTT.\u0026quot;MEMBER\u0026quot;\" order\u003d\"6\" font\u003d\"Segoe UI:9:0\" x\u003d\"687\" y\u003d\"398\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"8\" name\u003d\"MEMBER2\" fq-name\u003d\"SCOTT.MEMBER2\" order\u003d\"7\" font\u003d\"Segoe UI:9:0\" x\u003d\"208\" y\u003d\"132\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"9\" name\u003d\"PRODUCT\" fq-name\u003d\"SCOTT.PRODUCT\" order\u003d\"8\" font\u003d\"Segoe UI:9:0\" x\u003d\"836\" y\u003d\"378\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"10\" name\u003d\"SALGRADE\" fq-name\u003d\"SCOTT.SALGRADE\" order\u003d\"9\" font\u003d\"Segoe UI:9:0\" x\u003d\"208\" y\u003d\"408\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003c/data-source\u003e\u003c/entities\u003e\u003crelations\u003e\u003crelation name\u003d\"FK_MEMBER2\" fq-name\u003d\"SCOTT.BBS2.FK_MEMBER2\" type\u003d\"fk\" pk-ref\u003d\"8\" fk-ref\u003d\"2\"/\u003e\u003crelation name\u003d\"FK_MEMBER3\" fq-name\u003d\"SCOTT.BBS3.FK_MEMBER3\" type\u003d\"fk\" pk-ref\u003d\"8\" fk-ref\u003d\"3\"/\u003e\u003c/relations\u003e\u003c/diagram\u003e"}}}}},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": false,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"smart-commit": false,
+			"smart-commit-recover": false,
+			"auto-close-transactions": true,
+			"close-transactions-period": 1800,
+			"auto-close-connections": true,
+			"close-connections-period": 14400
+		}
+	}
+}

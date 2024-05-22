@@ -1,0 +1,107 @@
+2024-05-20 09:29:22.965 - DBeaver 24.0.4.202405051837 is starting
+2024-05-20 09:29:22.966 - OS: Windows 10 10.0 (amd64)
+2024-05-20 09:29:22.966 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-05-20 09:29:22.966 - Install path: 'C:\Users\Kang\AppData\Local\DBeaver'
+2024-05-20 09:29:22.967 - Instance path: 'file:/C:/workspace/multi/03_DB/'
+2024-05-20 09:29:22.968 - Memory available 64Mb/1024Mb
+2024-05-20 09:29:22.975 - Create display
+2024-05-20 09:29:23.103 - Initialize desktop platform...
+2024-05-20 09:29:23.223 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.400.v20240321-1303]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.200.v20240321-1303]
+> Start 팀 지원 핵심 [org.eclipse.team.core 3.10.400.v20240321-1303]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.130.202405051837]
+2024-05-20 09:29:23.396 - Initialize base platform...
+2024-05-20 09:29:23.412 - Platform initialized (309ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.130.202405051837]
+2024-05-20 09:29:23.621 - Error accessing instance server: java.net.ConnectException
+2024-05-20 09:29:23.637 - Starting instance server at http://localhost:50544
+2024-05-20 09:29:23.644 - Run workbench
+> Start Eclipse e4 작업영역 SWT [org.eclipse.e4.ui.workbench.swt 0.17.400.v20240321-1245]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.400.v20240321-1303]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.300.v20231201-1637]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.400.v20240321-1245]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.400.v20240321-1245]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.400.v20240321-1245]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.37.0.v20231208-1346]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.400.v20240321-1245]
+> Start Eclipse e4 작업영역 기능 추가 [org.eclipse.e4.ui.workbench.addons.swt 1.5.400.v20240403-1826]
+Warning: NLS unused message: 이유 in: org.eclipse.ui.internal.messages
+> Start Eclipse e4 작업영역 SWT 렌더러 [org.eclipse.e4.ui.workbench.renderers.swt 0.16.400.v20240404-0759]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.200.v20231220-1554]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.400.v20240321-1245]
+2024-05-20 09:29:25.063 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.120.202405051837]
+2024-05-20 09:29:25.177 - Total database drivers: 118 (118)
+> Start 도움말 시스템 코어 [org.eclipse.help 3.10.400.v20240321-1303]
+2024-05-20 09:29:25.256 - Create actions
+2024-05-20 09:29:25.261 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-05-20 09:29:25.261 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-05-20 09:29:25.261 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2024-05-20 09:29:25.262 - Create workbench actions
+> Start jna [com.sun.jna 5.14.0.v20231211-1200]
+2024-05-20 09:29:25.943 - Open [https://stats.dbeaver.com/send-statistics?session=d9e7c29d-f605-4d59-b788-d8a90e3217de&time=1715931560]
+2024-05-20 09:29:25.945 - Initialize workbench window
+2024-05-20 09:29:25.949 - Finish initialization
+> Start 기본 문서 편집기 [org.eclipse.ui.editors 3.17.300.v20240321-1245]
+> Start 텍스트 편집기 프레임워크 [org.eclipse.ui.workbench.texteditor 3.17.400.v20240323-1757]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.130.202405051837]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.130.202405051837]
+Warning: NLS unused message: FindReplace_title in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Find_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Replace_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Direction in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ForwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_BackwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Scope in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_GlobalRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectedRangeRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Options in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CaseCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WrapCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WholeWordCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_IncrementalCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_RegExCheckbox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_FindNextButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceFindButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceSelectionButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CloseButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_replacements_label in: org.eclipse.ui.texteditor.EditorMessages
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.106.202405051837]
+> Start 핵심 비교 지원 [org.eclipse.compare.core 3.8.500.v20240321-1303]
+2024-05-20 09:29:27.011 - Statistics sent (OK)
+> Start 인터넷 연결 관리 사용자 인터페이스 [org.eclipse.ui.net 1.5.300.v20231214-1012]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.400.v20240321-1303]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.167.202405051837]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.136.202405051837]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.16.0.202404101913]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.18.0.202404101913]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.90.202405051837]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.90.202405051837]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.127.202405051837]
+> Start DBeaver Dashboards Model [org.jkiss.dbeaver.model.dashboard 1.0.3.202405051837]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.121.202405051837]
+> Start 콘솔 [org.eclipse.ui.console 3.14.100.v20240321-2147]
+> Start 디버그 핵심 [org.eclipse.debug.core 3.21.400.v20240321-1303]
+2024-05-20 09:29:28.303 - Connect with 'HR' (oracle_thin-18f3ce07afd-2c4b2023623204a7)
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.23.202405051837]
+> Start DBeaver Oracle Model [org.jkiss.dbeaver.ext.oracle 2.1.215.202405051837]
+2024-05-20 09:29:28.338 - Execution context opened (HR; Main; 0)
+2024-05-20 09:29:28.622 - Execution context opened (HR; Metadata; 1)
+2024-05-20 09:29:28.681 - Connected (oracle_thin-18f3ce07afd-2c4b2023623204a7, Oracle JDBC driver [11.2.0.2.0])
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.25.202405051837]
+2024-05-20 09:29:28.888 - Execution context opened (HR; SQLEditor <DB_202405089_강경묵.sql>; 2)
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.108.202405051837]
+> Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.117.202405051837]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.108.202405051837]
+2024-05-20 09:29:30.221 - Open [https://dbeaver.io/product/version.xml]
+2024-05-20 09:29:34.355 - Downloading installation file to C:\Users\Kang\AppData\Local\Temp\dbeaver-ce-latest-x86_64-setup.exe7761834477707980808\dbeaver-ce-latest-x86_64-setup.exe
+2024-05-20 09:29:34.356 - Open [https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe]
+2024-05-20 09:30:20.872 - Execution context closed (HR, 2)
+2024-05-20 09:30:21.297 - DBeaver is stopping
+2024-05-20 09:30:21.298 - Stop instance server
+2024-05-20 09:30:22.302 - Instance server has been stopped
+2024-05-20 09:30:22.302 - DBeaver shutdown completed

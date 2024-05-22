@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0af792f-382e-433e-abbb-ceeaa90e3b49" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../mini_project/minipro" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gMIxITac7P5EQCwKsu51LOfnn5" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/workspace/multi/03_DB/mini_project/src/common",
+    "project.structure.last.edited": "라이브러리",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "애플리케이션.Application.executor": "Run",
+    "애플리케이션.Application2.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.TravelPreferenceSurvey.executor": "Run",
+    "애플리케이션.TravelPreferenceSurveyWithRadioButtons.executor": "Run",
+    "애플리케이션.YesNoQuestionPage.executor": "Run",
+    "애플리케이션.gpt.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\multi\03_DB\mini_project\src\common" />
+      <recent name="C:\workspace\multi\03_DB" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\multi\03_DB\mini_project\src\com\miniproject\product" />
+      <recent name="C:\workspace\multi\03_DB.com.project" />
+      <recent name="C:\workspace\multi\03_DB" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="run" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="d0af792f-382e-433e-abbb-ceeaa90e3b49" name="변경" comment="" />
+      <created>1715501266236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715501266236</updated>
+    </task>
+    <servers />
+  </component>
+</project>

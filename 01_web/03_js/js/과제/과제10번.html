@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function fight() {
+            result.innerHTML = '파이팅!'
+
+        }
+        function go100() {
+            for (let index = 0; index <= 100 ; index++) {
+            document.write(index + '100<br>')
+            console.log(index + '<br>')
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <button onclick="fight()">글자 추가3</button>
+    <button onclick="go100()">글자추가</button>
+    <hr>
+    <div id="result"></div>
+    <div id="result2"></div>
+</body>
+
+</html>
